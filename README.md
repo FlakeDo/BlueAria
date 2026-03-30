@@ -4,9 +4,10 @@ Whale sounds classification using spctrographic processing via CNN. This project
 
 ## CNN Models
 
-The models are made using two Python libraries : Keras and YOLO from Ultralytics. As this project beeing my first experienc with CNN and AI in general, my approach isn't trying to do something with the lattest technology straight away, but rather to learn step by step. 
+The models are made using two Python libraries: Keras and Ultralytics YOLO. As this project is my first experience with CNNs and AI in general, my approach is not to immediately use the latest technology but rather to learn step by step.
 
-All the models will be trainned using the WhaleSounds dataset available on HuggingFace. This dataset consists of 105,163 underwater acoustic recordings around Antarctica, manually annotated for seven different types of whale calls, resampled to a consistent sampling frequency of 250 Hz.
+All the models will be trained using the WhaleSounds dataset available on Hugging Face. This dataset consists of 105,163 underwater acoustic recordings from around Antarctica, manually annotated for seven different types of whale calls, resampled to a consistent sampling frequency of 250 Hz.
+
 
 ## Data Processing
 
