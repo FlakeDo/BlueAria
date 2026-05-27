@@ -1,6 +1,6 @@
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FlakeDo/BlueAria/blob/main/assets/logo_horizontal_onwdark.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FlakeDo/BlueAria/blob/main/assets/logo_horizontal_ondark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/FlakeDo/BlueAria/blob/main/assets/logo_horizontal_onwhite.png">
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/FlakeDo/BlueAria/blob/main/assets/logo_horizontal_ondark.png">
     </picture>
