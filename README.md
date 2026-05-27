@@ -1,4 +1,9 @@
-![bluearia logo](https://github.com/FlakeDo/BlueAria/blob/main/assets/logo_horizontal_onwhite.png)
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FlakeDo/BlueAria/blob/main/assets/logo_horizontal_onwhite.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/FlakeDo/BlueAria/blob/main/assets/logo_horizontal_ondark.png">
+    </picture>
+</p>
 
 # BlueAria
 
