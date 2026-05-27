@@ -1,3 +1,5 @@
+![bluearia logo](https://github.com/FlakeDo/BlueAria/blob/main/assets/logo_horizontal_onwhite.png)
+
 # BlueAria
 
 Whale sounds classification using spctrographic processing via CNN. This project was developed as part of the University of Nice’s FabLab team, in collaboration with Fredy Emmanuel Hounnou. The short-term objective is to train models capable of classifying whale sounds by species with acceptable accuracy. The long-term goal is to create a model that can identify recurrent patterns in the calls of a given species, much like how one would try to figure out the rules of an unknowned langage.
